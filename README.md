@@ -10,3 +10,7 @@ Features:
 - Load / Save *.cwm files (for CreeperWorld1 and Creeper World: Anniversary Edition)
 - Create new levels
 - Simulate "flow"
+
+# How to use
+
+Simple clone this repository and run the editor. Linux user may need to chmod +x the binary ;)
