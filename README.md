@@ -11,6 +11,9 @@ Features:
 - Create new levels
 - Simulate "flow"
 
-# How to use
+## How to use
 
 Simple clone this repository and run the editor. Linux user may need to chmod +x the binary ;)
+
+## Why there is no code ?
+ATM the code is a real big mess, i plan to clean it up and then it will be published as well. If you find any bugs or missing features feel free to use the report function.
